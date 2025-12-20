@@ -20,3 +20,4 @@ How does education level impact employee attrition?
 If the company wants to reduce attrition in the 26-35 age group, which strategies might be effective based on the data?
 
 Compare attrition trends between departments and salary levels—what patterns do you observe?
+#Dashboard : https://github.com/usama6643/HR-Analytics-Using-Power-BI/commit/d5df8cbf2d3ec2575fb4e77793814e8dfae07d6f
